@@ -1,0 +1,12 @@
+{
+  "name": "mapworld",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@types/three": "^0.143.1",
+    "simplex-noise": "^4.0.0",
+    "three": "^0.143.0",
+    "three-loaders": "^1.0.9"
+  }
+}
